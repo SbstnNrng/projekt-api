@@ -1,0 +1,4 @@
+node_modules/
+*.sqlite
+log.txt
+.env
